@@ -1,5 +1,4 @@
-# MLH Hackathon-HackNY-18
-# Twitterazzi
+# MLH Hackathon-HackNY-18 Twitterazzi
 
 # Inspiration
 Primary motive is to ease the workload of professionals in news and media industry, who struggle so to speak to get the story out to social media as soon as possible.
