@@ -21,10 +21,17 @@ A smartphone app, introducing geolocation tags, potential for an emergency respo
 
 # Built With
 Clarifai API
+
 Twitter API
+
 Node.js
+
 Javascript
+
 HTML5
+
 CSS
+
 Python
+
 Jquery
